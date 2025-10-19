@@ -1,0 +1,14 @@
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\bin\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.exe
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\bin\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.deps.json
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\bin\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.runtimeconfig.json
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\bin\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.dll
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\bin\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.pdb
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.AssemblyInfoInputs.cache
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.AssemblyInfo.cs
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.csproj.CoreCompileInputs.cache
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.dll
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\refint\BTH2_HuynhGiaThinh_24521680.dll
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.pdb
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\BTH2_HuynhGiaThinh_24521680.genruntimeconfig.cache
+D:\BTH2_Huỳnh Gia Thịnh_24521680\Bai01\BTH2_HuynhGiaThinh_24521680\obj\Debug\net8.0\ref\BTH2_HuynhGiaThinh_24521680.dll
