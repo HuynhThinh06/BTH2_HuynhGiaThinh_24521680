@@ -58,7 +58,7 @@ namespace BTH1_HuynhGiaThinh_24521680
         static int DongNhieuNguyenToNhat(int[,] a)
         {
             int n = a.GetLength(0), m = a.GetLength(1);
-            int dongMax = 0, maxDem = 0;
+            int dongMax = -1, maxDem = 0;
             for (int i = 0; i < n; i++)
             {
                 int dem = 0;
